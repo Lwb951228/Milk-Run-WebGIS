@@ -1,14 +1,12 @@
 # Milk Run WebGIS Demo
 
-A browser-based demonstration for optimizing inbound automotive-parts pickup operations. The application performs all calculations locally and does not require a backend service.
+A browser-based demonstration for optimizing inbound automotive-parts pickup operations. 
 
 ## Live Demo
 
 After GitHub Pages deployment, the application will be available at:
 
 https://lwb951228.github.io/Milk-Run-WebGIS/
-
-Use the language button in the top navigation bar to switch between Chinese and English. The selected language is saved in the browser.
 
 ## Features
 
